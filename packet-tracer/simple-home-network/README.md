@@ -18,10 +18,7 @@ The goal is to learn how to configure devices, connect them correctly, and verif
 
 ## 🖼️ Topology
 ### Logical View  
-*(Insert screenshot of your logical workspace here, e.g., `screenshot1.png`)*  
-
-### Physical View  
-*(Optional: screenshot of physical mode with rack/table/shelf if relevant)*
+![Preview](packet-tracer/simple-home-network/images) 
 
 ---
 

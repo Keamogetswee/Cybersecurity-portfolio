@@ -18,3 +18,7 @@ A simple Python script that checks if a password is strong based on:
 2. Navigate to the project folder:
    ```bash
    cd password-strength-checker
+3. Run the script:
+   ```bash
+   python3 password_checker.py
+   

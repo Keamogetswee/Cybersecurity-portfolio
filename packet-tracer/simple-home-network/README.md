@@ -1,30 +1,36 @@
-📡 Simple Home Network – Cisco Packet Tracer
-📖 Overview
+# 📡 Simple Home Network – Cisco Packet Tracer
+## 📖 Overview
 
 This project demonstrates the setup of a simple home network using Cisco Packet Tracer. The network consists of a PC, a laptop, a wireless router, a cable modem, and an internet cloud. It showcases how to configure devices, connect them with the correct cabling, and verify connectivity.
 
-🎯 Objectives
+---
 
-Build a small home network topology.
+## 🎯 Objectives
 
-Configure devices to use DHCP for automatic IP addressing.
+- Build a small home network topology.
 
-Verify connectivity by pinging an external server (cisco.srv).
+- Configure devices to use DHCP for automatic IP addressing.
 
-Explore logical vs physical topologies in Packet Tracer.
+- Verify connectivity by pinging an external server (cisco.srv).
 
-Understand cabling types (Ethernet, coaxial, console).
+- Explore logical vs physical topologies in Packet Tracer.
 
-🖼️ Topology
-Logical View
+- Understand cabling types (Ethernet, coaxial, console).
+
+---
+
+## 🖼️ Topology
+### Logical View
 
 (Insert screenshot of your logical workspace here)
 
-Physical View
+### Physical View
 
 (Optional: screenshot of physical mode with rack/table/shelf if relevant)
 
-⚙️ Steps Performed
+---
+
+## ⚙️ Steps Performed
 
 Added devices to the workspace (PC, Laptop, Wireless Router, Cable Modem, Cloud).
 
@@ -42,7 +48,9 @@ Verified IP configuration with ipconfig /all.
 
 Tested connectivity with ping cisco.srv.
 
-🧠 Key Learnings
+---
+
+## 🧠 Key Learnings
 
 Difference between logical topology (how devices are connected) and physical topology (where devices are placed).
 
@@ -52,7 +60,9 @@ Correct cabling choices for different device types.
 
 Troubleshooting DNS and connectivity issues in a simulated environment.
 
-📂 Files
+---
+
+## 📂 Files
 
 home_network.pkt → The Packet Tracer project file.
 
@@ -60,7 +70,7 @@ screenshot1.png → Logical topology diagram.
 
 screenshot2.png → Physical topology (optional).
 
-🚀 How to Use
+## 🚀 How to Use
 
 Download the .pkt file from this repo.
 
@@ -68,7 +78,9 @@ Open it in Cisco Packet Tracer (v8.2.2 or later recommended).
 
 Explore the topology and configurations.
 
-📌 Notes
+---
+
+## 📌 Notes
 
 This lab is part of my ongoing learning journey in networking. More projects will be added to this repository to showcase progress in areas such as:
 

@@ -58,8 +58,8 @@ Explore the topology and configurations.
 
 ## 📌 Notes
 This lab is part of my ongoing learning journey in networking. More projects will be added to this repository to showcase progress in areas such as:
-LAN/WAN setup
-Routing & switching
-VLANs
-Wireless networks
-Security basics
+- LAN/WAN setup
+- Routing & switching
+- VLANs
+- Wireless networks
+- Security basics
